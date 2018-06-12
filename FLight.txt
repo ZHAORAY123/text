@@ -1,0 +1,6 @@
+AA1111     1111       1111       1111       1111       1111       1111     1111
+AU3222     deyang     tianjig    127        1945       2100       c321     900
+DU4536     xian       haerbing   124        1923       2245       321      755
+EU2754     chengdu    wuhan      367        1425       1630       218      480
+HU7323     sane       changsha   157        2245       0055       319      560
+JD2754     Haikou     Hefei      246        1625       1930       737      740
